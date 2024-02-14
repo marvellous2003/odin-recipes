@@ -1,0 +1,17 @@
+body {
+  background-color: aqua;
+  font-family: "Times New Roman", Times, serif;
+}
+.main-header {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+  background-color: #d87093;
+  color: rgb(240, 255, 255);
+}
+.subheader {
+  font-style: italic;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
+  float: inline-start;
+}
